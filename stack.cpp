@@ -1,3 +1,5 @@
+// It follows the LIFO approach (Last int first out)
+// it follows only top method to data insert
 #include<iostream>
 #include <stack>
 using namespace std;
